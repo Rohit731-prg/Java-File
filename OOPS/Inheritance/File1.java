@@ -1,3 +1,5 @@
+// single inheritance
+
 import java.util.Scanner;
 
 class Emp {
